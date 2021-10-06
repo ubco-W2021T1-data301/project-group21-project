@@ -13,7 +13,15 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+Who: Which company/agency/organization provided this data?
+
+What: What is in your data?
+
+When: When was your data collected (for example, for which years)?
+
+Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
+
+How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
 
 ## Team Members
 
