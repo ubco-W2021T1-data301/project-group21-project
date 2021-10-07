@@ -13,15 +13,20 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-Who: Which company/agency/organization provided this data?
+Who: Which company/agency/organization provided this data? 
+This Dataset was posted to kaggle by Boris Marjanovic. He personally created this data set and posted it on kaggle.
 
 What: What is in your data?
+The data contains a file for each stock and each stock has data in a CSV format as follows: Date, Open, High, Low, Close, Volume, OpenInt. Dating from 2010 to 2017.
 
 When: When was your data collected (for example, for which years)?
+The data is for the years 2010 to 2017, and was last updated in 2017. 
 
 Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
+The purpose is learning and fun. He wanted to give people a try to do some predictive analytics on the data as there isnt many free stock market datasets available.
 
 How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
+The data was collected my a human.
 
 ## Team Members
 
