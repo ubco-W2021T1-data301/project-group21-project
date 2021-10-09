@@ -21,7 +21,7 @@ Who: Which company/agency/organization provided this data?
 This Dataset was posted to kaggle by Boris Marjanovic. He personally created this data set and posted it on kaggle.
 
 What: What is in your data?
-The data contains a file for each stock and each stock has data in a CSV format as follows: Date, Open, High, Low, Close, Volume, OpenInt. Dating from 2010 to 2017.
+The data contains a file for each stock/ETF and each stock/ETF has data in a CSV format as follows: Date, Open, High, Low, Close, Volume, OpenInt. Dating from 2010 to 2017.
 
 When: When was your data collected (for example, for which years)?
 The data is for the years 2010 to 2017, and was last updated in 2017. 
@@ -34,8 +34,8 @@ The data was colleced by a human, it includes historical records on many publicl
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Daniil Khodosko: I am a fourth-year COSC student at UBCO! 
+- Prashant Dutt: I'm a third year COSC student at UBCO.
+- Daniil Khodosko: I am a fourth-year COSC student at UBCO!
 - Dmitry Kostyukov: I am second year student at UBCO, I'm majoring in Data Science.
 ## Images
 
