@@ -19,6 +19,7 @@ Do you have any questions you specifically want to explore?
 
 Who: Which company/agency/organization provided this data? 
 This Dataset was posted to kaggle by Boris Marjanovic. He personally created this data set and posted it on kaggle.
+[Check out the source page here](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
 
 What: What is in your data?
 The data contains a file for each stock/ETF and each stock/ETF has data in a CSV format as follows: Date, Open, High, Low, Close, Volume, OpenInt. Dating from 2010 to 2017.
