@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5860993&assignment_repo_type=AssignmentRepo)
-# Group YYY - {Short snappy Title of your project}
+# Group YYY - Re-imagine Stocks
 
-- Your title can change over time.
+Stocks! Like you have never seen before...
 
 ## Milestones
 
@@ -31,7 +31,7 @@ The data was colleced by a human, it includes historical records on many publicl
 ## Team Members
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Daniil Khodosko: I am a fourth-year COSC student at UBCO! 
 - Dmitry Kostyukov: I am second year student at UBCO, I'm majoring in Data Science.
 ## Images
 
