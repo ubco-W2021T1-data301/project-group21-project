@@ -23,17 +23,16 @@ When: When was your data collected (for example, for which years)?
 The data is for the years 2010 to 2017, and was last updated in 2017. 
 
 Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
-The purpose is learning and fun. He wanted to give people a try to do some predictive analytics on the data as there isnt many free stock market datasets available.
+The purpose is learning and fun. He wanted to give people a try to do some predictive analytics on the data as there isn't many free stock market datasets available.
 
 How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
-The data was collected my a human.
+The data was colleced by a human, it includes info on many publicly traded stocks and ETFs collected traded on the NYSE and NASDAQ.
 
 ## Team Members
 
 - Person 1: one sentence about you!
 - Person 2: one sentence about you!
-- Person 3: one sentence about you!
-
+- Dmitry Kostyukov: I am second year student at UBCO, I'm majoring in Data Science.
 ## Images
 
 {You can use this area for any images you want to include}
