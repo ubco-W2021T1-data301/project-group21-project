@@ -11,9 +11,15 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 What do you hope to do with your analytics project?
 
+We are hoping to gain a better understanding of the stock market with our analytics project. We are also hoping to learn new skills that will help us with future analytics projects.
+
 Why are you interested in this topic or dataset?
 
+We are all very interested in learning more about the stock market. The stock market has always been a massive part of the world economy, it is very complex and nearly impossible to fully understand; but with the right knowledge and insight, one can find success in the stock market.
+
 Do you have any questions you specifically want to explore?
+
+We have questions regarding identifying overvalued stocks, the effectiveness of common indicators and the effects of seasonality on the markets.
 
 ## Describe your dataset in about 150-200 words
 
