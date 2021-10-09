@@ -9,7 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+What do you hope to do with your analytics project?
+
+Why are you interested in this topic or dataset?
+
+Do you have any questions you specifically want to explore?
 
 ## Describe your dataset in about 150-200 words
 
