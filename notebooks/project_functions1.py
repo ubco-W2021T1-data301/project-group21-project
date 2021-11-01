@@ -7,8 +7,10 @@ import mplfinance as fplt
 
 def load_and_process(url_or_path_to_csv_file):
 	ddf = (pd.read_csv(url_or_path_to_csv_file, sep=",", header=0)
-	.assign(DailyReturn = lambda x: x['Close']
-	.pct_change())
+	.assign(
+		DailyReturn = lambda x: x['Close'].pct_change(),
+		VolumeChange = lambda x: x['Volume'].pct_change()
+	)
 	.drop('OpenInt', 
 	axis=1))
 	
