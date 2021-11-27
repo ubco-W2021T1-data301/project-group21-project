@@ -7,7 +7,7 @@ plt.show()
 plt.rc("axes.spines", top=False, right=False)
 
 
-def random_pick(url_or_path_to_csv_file):
+def load_and_process(url_or_path_to_csv_file, start, end):
     
     '''
     load_and_process takes a random filename, chosen among the files of the given path.
@@ -23,16 +23,13 @@ def random_pick(url_or_path_to_csv_file):
             rfile=os.path.join(root, name)
     print(rfile)
     
-
-def load_and_process(url_or_path_to_csv_file, start, end):
-    
     '''
     load_and_process takes a filename, chosen among the files of the given path.
     It also indicates a start and end date denoted as 'YYYY-MM-DD', processes the dataset and returns a plot and a table.
     '''
 
     # Method Chain 1 - load data
-    df = pd.read_csv(url_or_path_to_csv_file, sep=",", header=0, names=["Date", "Open", "High", "Low", "Close", "Volume", "OpenInt"])
+    df = pd.read_csv(rfile, sep=",", header=0, names=["Date", "Open", "High", "Low", "Close", "Volume", "OpenInt"])
     
     # Method Chain 2 - set time series index
     df['Date'] = df['Date'].apply(pd.to_datetime)
